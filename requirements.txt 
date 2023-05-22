@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+opencv-python
+gdown
+torch
+Pillow
+sklearn
+transformers
+open_clip_torch
