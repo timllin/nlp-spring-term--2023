@@ -17,7 +17,6 @@ def create_imgId_eId(str_path):
     return imgId_eId
 
 
-
 def to_csv(imgId_eId, prompt_embeddings):
     df = pd.DataFrame(ndex=imgId_eId, data=prompt_embeddings, columns=['val']).rename_axis('imgId_eId').reset_index()
     df.to_csv('submission.csv', index=False)

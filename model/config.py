@@ -1,4 +1,3 @@
-import model.config
 
 config = {
     'device' : 'cuda',

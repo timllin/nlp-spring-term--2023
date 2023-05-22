@@ -1,7 +1,6 @@
 import torch
 from model.config import config
 from sentence_transformers import SentenceTransformer
-from PIL import Image
 import open_clip
 
 class ImageToPromtModel(torch.nn.Module):

@@ -16,7 +16,7 @@ A image-to-text model that generate a text description from an image.
     </tr>
     <tr>
         <td>
-            <center><img src="./asset/img.png" width="100" height="100"></center>
+            <center><img src="./asset/img.png" width="200" height="200"></center>
         </td>
         <td>
             <center><code>a close up of a small animal in a field </code></center>
